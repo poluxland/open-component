@@ -84,7 +84,8 @@ h2 {
   text-align: center;
 }
 .container {
-  max-width: 900px;
+  max-width: 500px;
+  border-radius: 10px;
   margin: 50px auto;
 }
 
